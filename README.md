@@ -15,4 +15,7 @@ este programa debera pedir los siquientes datos:
 
 el programa debera retornar el valor total de la factura (incluyendo la propina) y ademas cuanto debera pagar cada persona.
 
-el codigo esta en: https://replit.com/@JuliozNava/CalculadoraPropinas#main.py
+la demo esta en: https://replit.com/@JuliozNava/CalculadoraPropinas#main.py
+
+
+Proyecto realizado por  ® Julio Navarro Rojas - 2023
